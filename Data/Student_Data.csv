@@ -1,0 +1,13 @@
+Student_ID,Student_First_Name,Student_Second_Name,Student_Home_Add_ID,Student_NOK_ID,Student_Date_Left_Uni,Student_Email,Student_Category,Student_Nationality,Student_Smoker,Student_Special_Needs,Student_Comments,Student_Placed,Student_Course_ID,Student_Place_Num
+1,Bobby,Redan,1,1,2018-08-07,bredan0@wsj.com,1 Year Under,Cree,TRUE,Wheelchair,None,FALSE,1,1
+2,Kendell,Elstob,2,2,2018-11-02,kelstob1@de.vu,2 Year Under,Kiowa,FALSE,Crutches,None,FALSE,2,2
+3,Artur,Lucchi,3,3,2018-09-22,alucchi2@csmonitor.com,1 Year Under,Bolivian,TRUE,Braille,None,FALSE,3,3
+4,Constancy,Chattey,4,4,2018-05-29,cchattey3@slashdot.org,1 Year Under,Ute,FALSE,PTSD,None,FALSE,4,4
+5,Barbara,Durdle,5,5,2018-11-23,bdurdle4@bluehost.com,1 Year Under,Kiowa,TRUE,None,None,TRUE,5,5
+6,Kayla,MacClancey,6,6,2018-11-04,kmacclancey5@smh.com.au,2 Year Under,Native Hawaiian,TRUE,None,None,FALSE,6,6
+7,Shawnee,Yoskowitz,7,7,2018-10-11,syoskowitz6@netvibes.com,1 Year Under,Ute,TRUE,None,None,TRUE,7,7
+8,Rolando,Upham,8,8,2018-03-02,rupham7@people.com.cn,2 Year Under,Yaqui,TRUE,None,None,TRUE,8,8
+9,Trish,Kneesha,9,9,2018-06-28,tkneesha8@miibeian.gov.cn,3 Year Under,Apache,FALSE,None,None,TRUE,9,9
+10,Connie,D'Oyly,10,10,2018-07-30,cdoyly9@xrea.com,3 Year Under,Aleut,FALSE,ADA,None,FALSE,1,10
+11,Laverna,Loverock,11,11,2018-01-18,lloverocka@newyorker.com,1 Year Under,Japanese,FALSE,None,None,TRUE,2,11
+12,Tomasina,Iohananof,12,12,2018-09-11,tiohananofb@yellowbook.com,1 Year Under,Peruvian,TRUE,None,None,FALSE,3,12

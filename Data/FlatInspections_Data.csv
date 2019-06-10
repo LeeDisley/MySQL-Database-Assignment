@@ -1,0 +1,13 @@
+Inspect_ID,Inspect_Staff_ID,Inspect_Date,Inspect_Condition,Inspect_Comments,Inspect_Place_Num
+1,1,2018-02-08,Good,None,1
+2,2,2018-02-18,Fine,,2
+3,3,2018-01-21,Problems,Broken Front Door,3
+4,4,2018-06-23,Good,None,4
+5,5,2018-10-27,Good,None,5
+6,6,2018-11-19,Fine,None,6
+7,7,2017-12-27,Fine,None,7
+8,8,2018-10-19,Good,None,8
+9,9,2018-04-16,Fine,,9
+10,10,2018-06-20,Problems,Broken Toilet,10
+11,11,2018-02-12,Problems,Pans Missing,11
+12,12,2017-12-01,Fine,None,12
