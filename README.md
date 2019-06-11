@@ -17,5 +17,8 @@ The files include:
 
 -Docx files showing the scripts working
 
--Assignment hand in file showing above script docs and queries performed on the database
+-Assignment hand in file showing above script docs and the queries performed on the database to fulfill the assignment.
+
+-Report for assignment on possible setup of backend for the database
+
 
