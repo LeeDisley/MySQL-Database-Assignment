@@ -2,9 +2,10 @@
 ## Advanced Database Assignment
 
 ## Introduction
+These files make up my Advanced database assignment for my BSc Computing course at The University of Bolton.  The score for this unit comprises the 94% for this part and 66% for the exam, which gives 80% overall or a first.
 
-**Assignment Brief**
+The aim of the assignment was to create a database for management of student accomodation, on campus and private rent.  It also
+included the recording of flat inspections and payments.
 
-The goal of this assessment is to give experience in enhancing databases using techniques learned in the module such as triggers, functions or procedures. Moreover you develop your competency in the specification of client access methods for databases.
-This assessment is based on the University Accommodation Office case study.
+
 
